@@ -1,0 +1,45 @@
+.hello{
+    font-size: 28px;
+    font-weight: 900;
+    color: #363738;
+}
+.arrow{
+    color: #28eea7;
+    padding-right: 7px;
+    font-size: 30px;
+}
+.circles{
+    display: flex;
+    width: 90px;
+    justify-content: space-between;
+}
+.circle{
+    width: 24px;
+    height: 24px;
+    border-radius: 20px;
+}
+.black{
+    background-color: #363738;
+}
+.grey{
+    background-color: #dcdee1;
+}
+.green{
+    background-color: #28eea7;
+}
+.second-section{
+    background-color: #f1f2f3;
+}
+.second-sec-head{
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 10% 4% 10%;
+}
+iframe {
+    border: 15px solid #28eea7;
+    border-radius: 20px;
+    object-fit: fill;
+    width: 80%;
+    height:94vh;
+    margin: 0 10% 5% 10%;
+}
