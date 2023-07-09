@@ -1,0 +1,104 @@
+.hello4{
+    font-size: 28px;
+    font-weight: 900;
+    color: white;
+    background-color: #363738;
+    padding: 7px 14px;
+}
+.white{
+    background-color: white;
+}
+.arrow{
+    color: #28eea7;
+    padding-right: 7px;
+    font-size: 30px;
+}
+.fourth-section{
+    background-color: #28eea7;
+}
+.fourth-section-container{
+    padding: 0% 10% 50px 10%; 
+    display: flex;
+    flex-direction: column;
+}
+.programs-buttons a{
+    color: #363738;
+    border-radius: 10px 10px 0 0;
+    padding: 20px 45px;
+    font-weight: bolder;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 18px;
+    display: inline-block;
+}
+.programs-container{
+    display: flex;
+    border-radius: 20px;
+    align-items: space-between;
+    padding: 18px;
+    justify-content: space-between;
+    background-color: #363738;
+}
+.program-card{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    justify-content: space-between;
+    margin: 1rem;
+}
+.program-image img{
+    width: 400px;
+    min-height: 100px;
+    border-radius: 10px;
+    max-width: 100%;
+    display: block;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.program-title{
+    font-size: 25px;
+    color: white;
+}
+.program-title span{
+    color: #28eea7;
+}
+.program-description{
+    line-height: 1.4;
+    color: #dcdee1;
+    font-weight: lighter;
+    padding-bottom: 4%;
+}
+.program-details{
+    display: flex;
+    justify-content: space-between;
+}
+.details-date{
+    color: #fcfcfd;
+    text-align: left;
+    background-color: #232323;
+    flex: none;
+    justify-content: flex-start;
+    align-self: stretch;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4;
+    display: flex;
+}
+.green-text{
+    color: #28eea7;
+    font-weight: bolder;
+}
+.more-button{
+    background-color: #232323;
+    flex: 1;
+    text-align: right;
+    margin-top: auto;
+    color: #fcfcfd;
+    padding: 15px 20px;
+    font-weight: 800;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 15px;
+}
