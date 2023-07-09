@@ -1,0 +1,45 @@
+.hello5{
+    font-size: 28px;
+    font-weight: 900;
+    color: white;
+}
+.fifth-section{
+    background-color: #363738;
+    padding-bottom: 80px;
+}
+.fifth-sec-container{
+    border-radius: 20px;
+    padding: 40px;
+    background-color: #232323;
+    width: 80%;
+    margin: 0 auto;
+    height: 70%;
+}
+.companies{
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: left;
+    flex-shrink: 0;
+}
+.fifth-sec-container div{
+    margin-bottom: 20px;
+}
+.program-description li{
+    line-height: 1.5;
+}
+.fifth-sec-container a{
+    margin: -10px 0 30px 0;
+    background-color: #363738;
+}
+.fifth-sec-2ndcontainer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-radius: 20px;
+    padding: 20px 40px;
+    background-color: #232323;
+    width: 80%;
+    margin: 40px 10% 0 10%;
+    color: #fcfcfd;
+}
+
