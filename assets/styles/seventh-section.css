@@ -1,0 +1,16 @@
+.seventh-sec-div{
+    margin: 16px auto;
+    background-color:#232323;
+    color: white;
+    display: block;
+    cursor: pointer;
+    overflow: hidden;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.seventh-section a{
+    width: 80%;
+    margin: 0 10%;
+}
